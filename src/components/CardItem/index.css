@@ -1,0 +1,38 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+.item-card {
+  border-radius: 10px;
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.title-card {
+  align-self: flex-start;
+}
+.title-heading {
+  color: black;
+  font-family: Roboto;
+}
+.title-paragraph {
+  color: #64748b;
+  font-family: Roboto;
+}
